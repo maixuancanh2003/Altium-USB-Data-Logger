@@ -25,7 +25,6 @@ The USB Data Logger is equipped with an ESP32-S3 microcontroller, allowing it to
 | View        | Image                             |
 |-------------|-----------------------------------|
 | **Top View**    | ![Top View](Image/TOP.png)      |
-| **Bottom View** | ![Bottom View](Image/BOTTOM.png) |
 | **Front Left View** | ![Bottom View](Image/FrontLeft.png) |
 ## 🚀 Getting Started
 To start using the **USB Data Logger**:
